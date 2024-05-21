@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\HatPepper.Model.Device\HatPepper.Model.Device.csproj" />
+    <ProjectReference Include="..\HatPepper.Model.HotPepper\HatPepper.Model.HotPepper.csproj" />
+  </ItemGroup>
+</Project>

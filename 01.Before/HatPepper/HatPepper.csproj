@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleApplicationFramework\ConsoleApplicationFramework.csproj" />
+    <ProjectReference Include="..\HatPepper.Controller\HatPepper.Controller.csproj" />
+    <ProjectReference Include="..\HatPepper.Model.Device\HatPepper.Model.Device.csproj" />
+    <ProjectReference Include="..\HatPepper.Model.HotPepper\HatPepper.Model.HotPepper.csproj" />
+    <ProjectReference Include="..\HatPepper.Model\HatPepper.Model.UseCase.csproj" />
+    <ProjectReference Include="..\HatPepper.View\HatPepper.View.csproj" />
+  </ItemGroup>
+
+</Project>

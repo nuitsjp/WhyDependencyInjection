@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="FluentTextTable" />
+    <PackageReference Include="Sharprompt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HatPepper.Model\HatPepper.Model.UseCase.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleApplicationFramework\ConsoleApplicationFramework.csproj" />
+    <ProjectReference Include="..\HatPepper.Model\HatPepper.Model.UseCase.csproj" />
+    <ProjectReference Include="..\HatPepper.View\HatPepper.View.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageVersion Include="FluentTextTable" Version="1.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageVersion Include="Sharprompt" Version="2.4.5" />
+    <PackageVersion Include="System.Text.Json" Version="8.0.3" />
+  </ItemGroup>
+</Project>
